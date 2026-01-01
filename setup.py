@@ -11,7 +11,7 @@ setup(
     description="ARAS_Logo",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/6-hh/aras",
+    url="https://github.com/6-hh/aras1",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
