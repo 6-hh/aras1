@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="aras1",
-    version="1.0.0",
+    version="1.0.1",
     author="W4_M4",
     author_email="",
     description="ARAS_Logo",
