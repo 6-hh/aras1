@@ -1,10 +1,4 @@
-from .aras1 import (
-    arasinsta,
-    arasDecinsta,
-    arasTik,
-    arasDecTik,
-    arasYop
-)
+import random
 
 __version__ = "1.0.2"
 __author__ = "@W4_M4 / @pytho2n"
@@ -16,7 +10,6 @@ __all__ = [
     'arasYop'
 ]
 
-import random
 Z = '\x1b[1m\x1b[32m'
 Y = '\x1b[1m\x1b[33m'
 R = '\x1b[1m\x1b[31m'
@@ -306,3 +299,4 @@ def arasYop():
                      
 {WHITE_BOLD} {a23}▬▬{WHITE_BOLD}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬{a23}▬▬{F} Ä Ŗ Ä Ś {a23}▬▬{F}{WHITE_BOLD}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬{a23}▬▬
 """)
+
