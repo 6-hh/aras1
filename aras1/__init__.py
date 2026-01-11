@@ -1,3 +1,21 @@
+from .aras1 import (
+    arasinsta,
+    arasDecinsta,
+    arasTik,
+    arasDecTik,
+    arasYop
+)
+
+__version__ = "1.0.2"
+__author__ = "@W4_M4 / @pytho2n"
+__all__ = [
+    'arasinsta',
+    'arasDecinsta',
+    'arasTik',
+    'arasDecTik',
+    'arasYop'
+]
+
 import random
 Z = '\x1b[1m\x1b[32m'
 Y = '\x1b[1m\x1b[33m'
