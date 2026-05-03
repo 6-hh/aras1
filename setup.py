@@ -5,14 +5,14 @@ try:
     with open("README.md", "r", encoding="utf-8") as fh:
         long_description = fh.read()
 except FileNotFoundError:
-    long_description = "ARAS1 - مكتبة عرض بانرات ملونة لـ Instagram, TikTok, Yopmail"
+    long_description = "مڪتبـة ARAS ¦ @W4_M4 "
 
 setup(
     name="aras1",
-    version="1.0.2",
+    version="1.0.3",
     author="W4_M4",
     author_email="",
-    description="مكتبة عرض بانرات ملونة لـ Instagram, TikTok, Yopmail",
+    description="مڪتبـة ARAS ¦ @W4_M4 ",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/6-hh/aras1",
