@@ -1,6 +1,6 @@
 import random
 
-__version__ = "1.0.2"
+__version__ = "1.0.4"
 __author__ = "@W4_M4 / @pytho2n"
 __all__ = [
     'arasinsta',
