@@ -9,7 +9,7 @@ except FileNotFoundError:
 
 setup(
     name="aras1",
-    version="1.0.3",
+    version="1.0.4",
     author="W4_M4",
     author_email="",
     description="مڪتبـة ARAS ¦ @W4_M4 ",
